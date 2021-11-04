@@ -4,6 +4,10 @@ a {
     text-decoration: none;
 }
 
+.page-header a{
+    color: white;
+}
+
 /* 大きな背景画像 */
 .big-bg{
     background-size: cover;
