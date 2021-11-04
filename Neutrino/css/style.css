@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+a {
+    text-decoration: none;
+}
+
 /* 大きな背景画像 */
 .big-bg{
     background-size: cover;
