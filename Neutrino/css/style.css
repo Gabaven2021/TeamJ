@@ -36,8 +36,12 @@ a {
     background: #0bd;
     color: #fff;
     border-radius: 5px;
-    padding: 18px 110px;
-    margin: 10px; /*隙間*/
+    margin: 8px; /*隙間*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 440px;
 }
 .button1:hover{
     background: #0090aa;
@@ -49,8 +53,12 @@ a {
     background: #0bd;
     color: #fff;
     border-radius: 5px;
-    padding: 18px 110px;
-    margin: 10px; /*隙間*/
+    margin: 8px; /*隙間*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 440px;
 }
 .button2:hover{
     background: #0090aa;
