@@ -37,6 +37,7 @@ a {
     color: #fff;
     border-radius: 5px;
     padding: 18px 110px;
+    margin: 10px; /*隙間*/
 }
 .button1:hover{
     background: #0090aa;
@@ -49,6 +50,7 @@ a {
     color: #fff;
     border-radius: 5px;
     padding: 18px 110px;
+    margin: 10px; /*隙間*/
 }
 .button2:hover{
     background: #0090aa;
