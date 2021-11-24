@@ -118,7 +118,7 @@ a {
 .button6{
     font-size: 1.5rem;
     opacity: 0.5;
-    background: #702c91;
+    background: #28a44a;
     color: #fff;
     border-radius: 5px;
     margin: 8px; /*隙間*/
@@ -129,5 +129,5 @@ a {
     width: 440px;
 }
 .button6:hover{
-    background: #4d1f63;
+    background: #1a6e31;
 }
