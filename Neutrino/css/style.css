@@ -50,7 +50,7 @@ a {
 .button2{
     font-size: 1.5rem;
     opacity: 0.5;
-    background: #0bd;
+    background: #702c91;
     color: #fff;
     border-radius: 5px;
     margin: 8px; /*隙間*/
@@ -61,5 +61,5 @@ a {
     width: 440px;
 }
 .button2:hover{
-    background: #0090aa;
+    background: #4d1f63;
 }
