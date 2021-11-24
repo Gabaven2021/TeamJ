@@ -114,3 +114,20 @@ a {
 .button5:hover{
     background: #4d1f63;
 }
+
+.button6{
+    font-size: 1.5rem;
+    opacity: 0.5;
+    background: #702c91;
+    color: #fff;
+    border-radius: 5px;
+    margin: 8px; /*隙間*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width: 440px;
+}
+.button6:hover{
+    background: #4d1f63;
+}
