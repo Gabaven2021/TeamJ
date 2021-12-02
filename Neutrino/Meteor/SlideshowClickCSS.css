@@ -1,0 +1,23 @@
+/* 背景色 */
+body {
+background-color:ghostwhite;
+}
+
+
+/* ボタンの装飾 */
+input[type="button"] {
+   background-image: linear-gradient(0deg,silver,white); /* グラデーション */
+   border: 1px solid gray; /* 枠線 */
+   border-radius: 0.3em; /* 角丸 */
+}
+
+input[type="button"]:hover {
+   /* マウスが載ったとき */
+   background-image: linear-gradient(0deg,#68d3db,#e5f4fc);
+   border: 1px solid #2c628b;
+}
+input[type="button"]:active {
+   /* クリックされたとき */
+   background-image: linear-gradient(180deg,#68d3db,#e5f4fc);
+   border: 1px solid skyblue;
+}
